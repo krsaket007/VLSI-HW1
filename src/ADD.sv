@@ -1,8 +1,6 @@
 // ADD
 
-module ADD ( A,
-			 B,
-			 S);
+module ADD ( A, B, S);
 
 	parameter n = 16;
 
